@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Automation QA Test</string>
+    <string name="app_title_main">@string/app_name</string>
+    <string name="app_title_login">Login</string>
+    <string name="app_title_home">Home</string>
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."
+    </string>
+    <string name="main_explanation">This is the Yoti automation QA exercise.\nThis application is
+        made of 3 screens: The main, the login and the home screen and you should make sure that:\n\n
+        \tOn the main screen:\n
+        \t\t- the title is \'Automation QA Test\'\n
+        \t\t- the explanation text is present\n
+        \t\t- the button signup (disabled) and login (enabled) are present.\n\n
+
+        \tOn the login screen:\n
+        \t\t- the title is \'Login\'\n
+        \t\t- the Yoti logo is present.\n
+        \t\t- that at least one of those credentials is valid and that any other is wrong: username@yoti.com:longpassword, login@yoti.com:verystrongpassword\n
+        \t\t- you can check that a wrong email or a wrong password trigger the appropriate error state on the text field\n
+        \t\t- you can check that a password shorter than 4 characters trigger the appropriate error state on the text field\n\n
+
+        \tOn the home screen:\n
+        \t\t- the title is \'Home\'\n
+        \t\t- a \'Welcome\' label is present\n
+        \t\t- a list is present where the last element is \'world\'\n
+        \t\t- a logout button is present
+    </string>
+    <string name="main_button_signup">Sign Up</string>
+    <string name="main_button_login">Login</string>
+
+    <string name="home_button_logout">Logout</string>
+</resources>
