@@ -22,6 +22,6 @@ This application is made of 3 screens: The main, the login and the home screen a
 # Rules for providing the solution:
 1. Do not commit to this repository
 2. Do not fork the repository
-3. Provide the solution in an archived folder 
+3. Provide the solution in an archived folder in an email, not in Github
 4. The code provided should compile and the tests should run
 5. Provide instructions on how to run the tests and any other actions that we should take before being able to run your tests
