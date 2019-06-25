@@ -6,9 +6,11 @@
 4. The code provided should compile and the tests should run
 5. Provide instructions on how to run the tests and any other actions that we should take before being able to run your tests
 
+# Exercise 1
+Download assignment-exercise1.apk from the repository and follow the document received for part1 and part2 using this apk
 
 # yoti-mobileautomation-test-android
-Test app used for mobile automation QAs recruitment
+Test app used for mobile automation QAs recruitment (ignore the .apk used at the previous step and use the rest of the code provided) 
 
 This application is made of 3 screens: The main, the login and the home screen and you should make sure that:
 
